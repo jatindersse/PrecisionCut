@@ -27,7 +27,3 @@ Fast DXF/SVG → G‑code for CNC (GRBL, LinuxCNC, Mach3, Fanuc). Windows instal
 ## Requirements
 - Windows 10/11 x64
 - USB serial driver (for GRBL/FluidNC, if sending via serial)
-
-git add README.md
-git commit -m "Docs: add release download, install, update and troubleshooting"
-git push
